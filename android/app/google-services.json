@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "543528964964",
+    "project_id": "pringstom",
+    "storage_bucket": "pringstom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543528964964:android:59f798a2fe255d29f2e071",
+        "android_client_info": {
+          "package_name": "com.aplicacion.qoway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543528964964-7last3dc5r16jkqp6o4u1d83u7juo8nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJlEUNPa49ZAvGbJCKdAgr8DClmHTnUVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543528964964-7last3dc5r16jkqp6o4u1d83u7juo8nd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543528964964-g81g5io59f4q0loo1kt67bsql34s4b5m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aplicacion.qoway"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
